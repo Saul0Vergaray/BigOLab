@@ -12,10 +12,12 @@ function printNumbers(numbers) {
   }
   
 // Q: Given an array of numbers, what is the time complexity of this function?
-// ANSWER: O(n)
+// ANSWER: 
+O(n)
 
 // Q: What is the space complexity?
-// ANSWER: O(1)
+// ANSWER: 
+O(1)
 
 
 
